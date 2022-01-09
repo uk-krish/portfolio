@@ -1,0 +1,13 @@
+<span id="a">root@Mualiarasan</span>:<span id="b">~</span><span id="c">$</span> cd Portfolio
+<span id="a">root@Mualiarasan</span>:<span id="b">~</span><span id="c">$</span> cat about.txt<br/>
+
+I'm Muraliarasan , I'm a student curently pursuing Computer Science and Engineering at Velammal college of Engineering and Technology Madurai. <br> <br>My area of interst is Web appplication Pentrasting , Open Source Intelligence.<br>
+I create <a href="https://github.com/cmuraliarasan?tab=repositories"target="_blank"> Projects </a> occasionally, to test my skills and to enhance them.<br>
+Here's my <a href="Resume.pdf"target="_blank">Resume</a>, if you wanna Hire me.<br>
+<span id="a">root@Mualiarasan</span>:<span id="b">~</span><span id="c">$</span> cat contact.txt<br/>
+Feel free to reach me at <a href="mailto:murali962001@gmail.com">murali962001@gmail.com</a><br>
+My other social media handles include<br> # <a href="https://www.linkedin.com/in/muraliarasan/"target="_blank">Linkedin</a> <br> # <a href="
+https://www.instagram.com/cmuraliarasan/"target="_blank">Instagram</a> <br> # <a href="https://twitter.com/Muraliarasan_"target="_blank">Twitter</a> <br> # <a href="https://www.facebook.com/c.muraliarasan" target="_blank">Facebook</a><br>
+<br> # <a href="https://www.instagram.com/cmuraliarasan/"target="_blank">Twitter</a>
+
+<span id="a">root@Mualiarasan</span>:<span id="b">~</span><span id="c">$</span> exit</p>
