@@ -1,18 +1,14 @@
-<span id="a">[root@uk_krish ~ ]</span><span id="b"></span><span id="c">$</span> cd Portfolio
-<span id="a">[root@uk_krish ~ ]</span>:<span id="b">~</span><span id="c">$</span> cat about.txt<br/>
+<span id="a">[root@uk_krish ~]</span><span id="b"></span><span id="c">$</span> cd Portfolio
+<span id="a">[root@uk_krish ~]</span>:<span id="b">~</span><span id="c">$</span> cat about.txt<br/>
 
 I'm Unnikrishnan , I'm a student curently pursuing B.Tech Information Technology at Karpagam College of Engineering, Coimbatore. <br> <br>My area of interst is Web appplication Pentrasting , Open Source Intelligence.<br>
 I create <a href="https://github.com/uk-krish"target="_blank"> Projects </a> occasionally, to test my skills and to enhance them.<br>
 Here's my <a href="#"target="_blank">Resume</a>, if you wanna Hire me.<br>
-<span id="a">[root@uk_krish ~ ]</span><span id="b">~</span><span id="c">$</span> cat contact.txt<br/>
+<span id="a">[root@uk_krish ~]</span><span id="b">~</span><span id="c">$</span> cat contact.txt<br/>
 Feel free to reach me at <a href="mailto:unnikrishnan131100@gmail.com">unnikrishnan131100@gmail.com</a><br>
 My other social media handles include<br> 
-<br>
-# 
-<a href="https://www.linkedin.com/in/unnikrishnan-c-87318821a"target="_blank">Linkedin</a> <br> 
-# 
-<a href="https://instagram.com/uk_krish__"target="_blank">Instagram</a> <br>
-# 
-<a href="https://twitter.com/UK_Devloper"target="_blank">Twitter</a> <br> #
+# <a href="https://www.linkedin.com/in/unnikrishnan-c-87318821a"target="_blank">Linkedin</a> <br> 
+# <a href="https://www.instagram.com/uk_krish_/"target="_blank">Instagram</a> <br>
+# <a href="https://twitter.com/UK_Devloper"target="_blank">Twitter</a> <br> #
 
-<span id="a">[root@uk_krish ~ ]</span><span id="b"></span><span id="c">$</span> exit</p>
+<span id="a">[root@uk_krish ~]</span><span id="b"></span><span id="c">$</span> exit</p>
