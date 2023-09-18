@@ -43,7 +43,7 @@ const Home = () => {
     <section id="home" name="home" className=" home-bg ">
       
       <div className="flex flex-col items-center mx-auto justify-center py-48 text-white ">
-        <div className="image ">
+        <div className="image h-[300px]">
           <img className="w-[300px] rounded-full  " src={profile} alt="" />
         </div>
 
