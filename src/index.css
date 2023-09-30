@@ -1,0 +1,181 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Import Fonts */
+@font-face {
+  font-family: lato;
+  src: url('./assests/fonts/Lato-Black.ttf');
+}
+@font-face {
+  font-family: Arimo;
+  src: url('./assests/fonts/Arimo-Regular.ttf');
+}
+@font-face {
+  font-family: Pacifico;
+  src: url('./assests/fonts/Pacifico.ttf');
+}
+
+.head_font{
+  font-family: lato,sans-serif;
+}
+.Pacifico{
+  font-family: Pacifico;
+}
+.para{
+  font-family: Arimo;
+}
+
+
+:root {
+  --button: #0d60d5;
+  --text_color: #fafafa;
+  --background_color: #181818;
+  --Highlight_color: #2fc2fd;
+  --Light_color: #e5f0ff;
+}
+
+/* text */
+.text_white {
+  color: var(--text_color);
+}
+.text_light {
+  color: var(--Light_color);
+}
+
+.button_primary {
+  background: var(--button);
+}
+.text_button {
+  color: var(--button);
+}
+.text_highlight {
+  color: var(--Highlight_color);
+}
+.highlight_color {
+  background: var(--Highlight_color);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: var(--background_color);
+}
+
+.home-bg {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background-image: url("./assests/images/bg.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #1818187e;
+  background-blend-mode: multiply;
+}
+
+.image {
+  position: relative;
+}
+.image::after {
+  position: absolute;
+  content: "";
+  width: 350px;
+  height: 350px;
+  top: -25px;
+  left: -25px;
+  border: 10px solid #7c7c7c;
+  border-radius: 50%;
+  animation: animate 3s linear infinite;
+}
+
+.active {
+  text-align: center;
+  background: #7c7c7c;
+  padding: 10px;
+  border-radius: 7px;
+}
+
+.custom_btn {
+  background: var(--button);
+  color: #fafafa;
+}
+.custom_btn1 {
+  background: #7ab14d;
+  color: #111111;
+}
+.no_source {
+  color: #111111;
+  background: transparent;
+}
+
+.contact_btn {
+  background: transparent;
+  border: 1px solid var(--Highlight_color);
+  border-radius: 7px;
+  transition: 0.5s;
+}
+.contact_btn2 {
+  background: transparent;
+  border: 1px solid;
+  color: #f2f1d0;
+  border-radius: 4px;
+}
+.contact_btn2:hover {
+  transform: scale(1.01);
+  background: #f2f1d0;
+  color: #111111;
+}
+.link_hover:hover {
+  transform: scale(1.25);
+}
+.contact_btn:hover {
+  transform: scale(1.1);
+  background: var(--Highlight_color);
+  color: var(--background_color);
+}
+.conatct_back{
+  background: url('./assests/images/Contact_back.jpg');
+  background-size: cover;
+  
+}
+@keyframes animate {
+  0% {
+    box-shadow: 0 0 0 0 #383838;
+  }
+  50% {
+    box-shadow: 0 0 0 15px #383838;
+  }
+  75% {
+    box-shadow: 0 0 0 20px #383838;
+  }
+  100% {
+    box-shadow: 0 0 0 0px #383838;
+  }
+}
+@media screen and (max-width: 638px) {
+  .image::after {
+    position: absolute;
+    content: "";
+    width: 300px;
+    height: 300px;
+    top: -25px;
+    left: -25px;
+    border: 10px solid #7c7c7c;
+    border-radius: 50%;
+    animation: animate 3s linear infinite;
+  }
+}
+
+.custom_nav::after {
+  content: '';
+  position: absolute;
+  bottom:-1px;
+  width: 100%;
+  left: 0;
+  height: 3px; /* Set the desired height */
+  background: #333333;
+}
