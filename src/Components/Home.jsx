@@ -61,7 +61,7 @@ const Home = () => {
           <div className="flex mx-auto items-center justify-center mt-5  ">
             <buttmx className="p-3 w-[130px] rounded-lg custom_btn font-bold mr-5 cursor-pointer">
               <a
-               href="https://drive.google.com/file/d/1rraN-DH_w7XyL_K6qHyMwP1TQhpSuiV8/view?usp=sharing"
+               href="https://drive.google.com/file/d/1MXVn1eLvVIp_Ixqh39rsufAEjm4hfTYk/view?usp=sharing"
                 target="_blank" rel="noreferrer"
               >
                 Download CV
